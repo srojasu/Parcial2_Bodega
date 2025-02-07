@@ -1,5 +1,5 @@
 # Parcial2_Bodega
-Para este ejercicio se solicito crear un simulador de las operaciones relacionadas a una bodega (CRUD), que cuente con interfaz grafica y que la informacion persista en el tiempo, en este caso use Firebase.
+Para este ejercicio se solicito crear un simulador de las operaciones relacionadas a una bodega (CRUD), que cuente con interfaz grafica y que la informacion persista en el tiempo, en este caso use Firebase.(El proyecto se encuentra en la branch master).
 
 Para el proyecto cree 8 clases diferentes con diferentes funciones:
 1. Main:<br/>
